@@ -13,7 +13,7 @@ homepage: ontoneo.com
 mailing_list: http://groups.google.com/group/ontoneo-discuss
 products: 
 build:
- url soure: http://purl.obolibrary.org/obo/ontoneo/ontoneo.owl
+ source_url: http://purl.obolibrary.org/obo/ontoneo/ontoneo.owl
   - id: ontoneo.owl
 tracker: https://github.com/ontoneo-project/Ontoneo/issues
 browsers:
